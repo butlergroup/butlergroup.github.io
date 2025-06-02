@@ -1,0 +1,6 @@
+bundle exec jekyll serve - test site locally
+
+architect@v0.2.0
+leap-day@v0.2.0
+merlot@v0.2.0
+time-machine@v0.2.0
