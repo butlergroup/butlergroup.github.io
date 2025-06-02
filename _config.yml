@@ -21,17 +21,16 @@
 title: The Butler Group LLC
 email: dev@butlergroup.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Github Pages site for The Butler Group LLC
+  ..at your service!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "butlergroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "butlergroup.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 1butlergroup
-github_username:  butlergroup
+github_username: butlergroup
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
